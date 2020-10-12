@@ -42,13 +42,13 @@
 - The DevXplore is a company providing chrome extensions which are of great use to the developer’s and aim to make a particular aspect of developers' lives easier. Here we are presenting 4 chrome extensions namely URL SHORTENER, CSS TO JAVASCRIPT, JAVASCRIPT TO JSON and CSS SCANNNER which intend to help developers in various ways.We aim to promote our Products through POSTER, VIDEOS and WEBSITE which provide the details of our chrome extensions in a more aesthetically pleasing way.
 ---
 **Links:**
-* *Link 1)* GitHub Repository(https://github.com/devxploreofficial/devxploreofficial.github.io/)
-* *Link 2)* GitHub Link of Website (https://devxploreofficial.github.io/)
-* *Link 3)* Poster (https://devxploreofficial.github.io/Poster.jpeg/)
+* *Link 1)* GitHub Repository(https://github.com/devxploreofficial/devxploreofficial.github.io)
+* *Link 2)* GitHub Link of Website (https://devxploreofficial.github.io)
+* *Link 3)* Poster (https://devxploreofficial.github.io/Poster.jpeg)
 * *Link 4)* Google Drive ()
 ---
 **Steps to Start:**
-* First go to our Website (https://devxploreofficial.github.io/).
+* First go to our Website (https://devxploreofficial.github.io).
 * The website contains multiple tabs which provide you the details of our company.
 * Go to "Installation Process" tab to download the pdf which contains the steps of installing the extensions.
 * Our website is based on the promotion of our product- "The chrome extensions" designed for the convenience of the developers.
