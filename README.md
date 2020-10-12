@@ -48,7 +48,7 @@
 * *Link 3)* GitHub Link of Website (https://devxploreofficial.github.io)
 * *Link 4)* Installation Process PDF(https://devxploreofficial.github.io/Installation%20Process.pdf)
 * *Link 4)* GitHub Repository(https://github.com/devxploreofficial/devxploreofficial.github.io)
-* *Link 5)* Google Drive-Alternative ()
+* *Link 5)* Google Drive-Alternative(https://drive.google.com/file/d/1QSod1yxcl5UdTj_7o2-LFXy4Bo7XnzT7/view?usp=sharing)
 ---
 **Steps to Start:**
 * First go to our Website with the provided link.
