@@ -52,5 +52,5 @@
 * The website contains multiple tabs which provide you the details of our company.
 * Go to "Installation Process" tab to download the pdf which contains the steps of installing the extensions.
 * Our website is based on the promotion of our product- "The chrome extensions" designed for the convenience of the developers.
-* To view our promotional material refer to our poster (devxploreofficial.github.io/Poster.jpeg/),our social media pages-Facebook,Twitter,LinkedIn,YouTube whose links are provided in our website (Footer).
+* To view our promotional material refer to our poster (https://devxploreofficial.github.io/Poster.jpeg) ,our social media pages-Facebook,Twitter,LinkedIn,YouTube whose links are provided in our website (Footer).
     
