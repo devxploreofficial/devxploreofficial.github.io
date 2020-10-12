@@ -21,7 +21,7 @@
 - Javascript To JSON
 - CSS Scanner
 ---
-**Language:**                
+**Languages:**                
 - HTML
 - CSS                   
 - Javascript
