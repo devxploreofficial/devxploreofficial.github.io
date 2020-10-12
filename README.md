@@ -10,7 +10,7 @@
 * Dinky Kumar (Class 10th)
 ---
  **Event:**                   
-   Creative
+   -Creative
 ---
 **Products:**                
 **CHROME EXTENSIONS:**
@@ -39,7 +39,7 @@
 - Availability of INTERNET is required for the entire project to work.
 ---
 **Description:**
-The DevXplore is a company providing chrome extensions which are of great use to the developer’s and aim to make a particular aspect of developers' lives easier. Here we are presenting 4 chrome extensions namely URL SHORTENER, CSS TO JAVASCRIPT, JAVASCRIPT TO JSON and CSS SCANNNER which intend to help developers in various ways.We aim to promote our Products through POSTER, VIDEOS and WEBSITE which provide the details of our chrome extensions in a more aesthetically pleasing way.
+-The DevXplore is a company providing chrome extensions which are of great use to the developer’s and aim to make a particular aspect of developers' lives easier. Here we are presenting 4 chrome extensions namely URL SHORTENER, CSS TO JAVASCRIPT, JAVASCRIPT TO JSON and CSS SCANNNER which intend to help developers in various ways.We aim to promote our Products through POSTER, VIDEOS and WEBSITE which provide the details of our chrome extensions in a more aesthetically pleasing way.
 ---
 **Links:**
 * *Link 1)* ReadMe (README.md)
