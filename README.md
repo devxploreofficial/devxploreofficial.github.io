@@ -12,8 +12,9 @@
  **Event:**                   
    - Creative
 ---
-**Products:**                
-**CHROME EXTENSIONS:**
+**Product:**     
+
+**Chrome Extensions:**
                              
 - Url Shortener
 - CSS To Javascript
@@ -35,22 +36,26 @@
 ---
 **Requirements:**            
 - Google Chrome
-- View in 100% zoom in chrome.
+- View in 100% zoom in Chrome.
 - Availability of INTERNET is required for the entire project to work.
 ---
 **Description:**
-- The DevXplore is a company providing chrome extensions which are of great use to the developer’s and aim to make a particular aspect of developers' lives easier. Here we are presenting 4 chrome extensions namely URL SHORTENER, CSS TO JAVASCRIPT, JAVASCRIPT TO JSON and CSS SCANNNER which intend to help developers in various ways.We aim to promote our Products through POSTER, VIDEOS and WEBSITE which provide the details of our chrome extensions in a more aesthetically pleasing way.
+- The DevXplore is a company providing chrome extensions which are of great use to the developers and its aim is to make a particular aspect of developers' lives easier. Here we are presenting 4 chrome extensions namely URL SHORTENER, CSS TO JAVASCRIPT, JAVASCRIPT TO JSON and CSS SCANNNER which intend to help developers in various ways.We aim to promote our Products through POSTER, VIDEOS and WEBSITE which provide the details of our chrome extensions in a more aesthetically pleasing way.
 ---
 **Links:**
-* *Link 1)* GitHub Repository(https://github.com/devxploreofficial/devxploreofficial.github.io)
-* *Link 2)* GitHub Link of Website (https://devxploreofficial.github.io)
-* *Link 3)* Poster (https://devxploreofficial.github.io/Poster.jpeg)
-* *Link 4)* Google Drive ()
+* *Link 1)* README (https://github.com/devxploreofficial/devxploreofficial.github.io/blob/master/README.md)
+* *Link 2)* Poster (https://devxploreofficial.github.io/Poster.jpeg) 
+* *Link 3)* GitHub Link of Website (https://devxploreofficial.github.io)
+* *Link 4)* Installation Process PDF(https://devxploreofficial.github.io/Installation%20Process.pdf)
+* *Link 4)* GitHub Repository(https://github.com/devxploreofficial/devxploreofficial.github.io)
+* *Link 5)* Google Drive-Alternative ()
 ---
 **Steps to Start:**
-* First go to our Website (https://devxploreofficial.github.io).
+* First go to our Website with the provided link.
 * The website contains multiple tabs which provide you the details of our company.
+* INSTALL our chrome extensions to add them in Google Chrome and use them on your device.
 * Go to "Installation Process" tab to download the pdf which contains the steps of installing the extensions.
 * Our website is based on the promotion of our product- "The chrome extensions" designed for the convenience of the developers.
-* To view our promotional material refer to our poster (https://devxploreofficial.github.io/Poster.jpeg) ,our social media pages-Facebook,Twitter,LinkedIn,YouTube whose links are provided in our website (Footer).
+* To view our promotional material refer to our social media pages-Facebook Twitter, LinkedIn, YouTube whose links are provided in our website (Footer).
+* The code of our website is available over our GitHub repository and google drive.
     
