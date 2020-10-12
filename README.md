@@ -1,3 +1,12 @@
+
+---
+**Steps to Start:**
+* First go to our Website (devxploreofficial.github.io).
+* The website contains multiple tabs which provide you the details of our company.
+* Go to "Installation Process" tab to download the pdf which contains the steps of installing the extensions.
+* Our website is based on the promotion of our product- "The chrome extensions" designed for the convenience of the developers.
+* To view our promotional material refer to our poster (devxploreofficial.github.io/Poster.jpeg/),our social media pages-Facebook,Twitter,LinkedIn,YouTube whose links are provided in our website (Footer). 
+---
 **Name of the school:**      Lions Public School
 ---
 **Names of Participants:**   * Tushar Garg (Class 11th)
@@ -37,12 +46,4 @@ THE DevXplore is a company providing chrome extensions which are of great use to
 * *Link 3)* GitHub Link of Website (devxploreofficial.github.io)
 * *Link 4)* GitHub Repository()
 * *Link 5)* Google Drive ()
----
-**Steps to Start:**
-* First go to our Website (devxploreofficial.github.io).
-* The website contains multiple tabs which provide you the details of our company.
-* Go to "Installation Process" tab to download the pdf which contains the steps of installing the extensions.
-* Our website is based on the promotion of our product- "The chrome extensions" designed for the convenience of the developers.
-* To view our promotional material refer to our poster (devxploreofficial.github.io/Poster.jpeg/),our social media pages-Facebook,Twitter,LinkedIn,YouTube whose links are provided in our website (Footer). 
----
     
